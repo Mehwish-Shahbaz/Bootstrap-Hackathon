@@ -1,3 +1,8 @@
-body{
-    background-color: plum;
+.purple{
+    background-color: aqua !important;
+    background-image: linear-gradient(#f6f2ff, #efe3fb, #bb93d3) !important;
+    
+}
+.navclass{
+    background-color: #8020b8 !important; 
 }
